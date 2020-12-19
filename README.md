@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cédric</h1>
 <h3 align="center">Passionate software developer but curious of every computer science discovery</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cedrictellier&label=Profile%20views&color=0e75b6&style=flat" alt="cedrictellier" /> </p>
-
 - 🔭 I’m currently working on [Full rest Api project](https://github.com/CedricTellier/rest_api)
 
 - 🌱 I’m currently learning **VueJs, Typescript**
